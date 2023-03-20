@@ -31,3 +31,9 @@ body{
     border-radius: 5%;
     gap: 2rem;
 }   
+
+.phrase_container{
+    background-color: rgba(189, 208, 70, 0.649);
+    border-radius: 1rem;
+    padding: 1rem;
+}
